@@ -1,6 +1,3 @@
-Get up and running with this simple Box Platform app that uses the [Express](http://expressjs.com/)
-web framework and [Passport](http://passportjs.org/) + [Auth0](https://auth0.com/) to authenticate/manage users.
-
 ## Instructions
 
 Follow the steps below to get the app running on your local machine.
